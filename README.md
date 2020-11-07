@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td>Dónde</td>
-<td>Zoom</td>
+<td>Zoom / Google Colab</td>
 </tr>
 <tr>
 <td>Inscripción</td>
