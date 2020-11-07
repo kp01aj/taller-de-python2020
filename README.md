@@ -37,13 +37,7 @@ poder realizar el análisis y modelado de sus propios datos, así como también
 que adquieran herramientas para poder continuar aprendiendo más sobre las
 diversas librerías científicas del ecosistema del lenguaje Python.</p>
 <h2><a id="user-content-cuándo" class="anchor" aria-hidden="true" href="#cuándo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>¿Cuándo?</h2>
-<p>El curso contará de 4 clases de 2hs horas cada una:</p>
-<ul>
-<li>Martes 23/06 16hs</li>
-<li>Jueves 25/06 16hs</li>
-<li>Martes 30/06 16hs</li>
-<li>Jueves 2/07 16hs</li>
-</ul>
+
 <h2><a id="user-content-dónde" class="anchor" aria-hidden="true" href="#dónde"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>¿Dónde?</h2>
 <p>Debido a la situación generada por el COVID-19, el curso se dictará de manera
 virtual a través de <del>la plataforma <a href="https://meet.jit.si/" rel="nofollow">Jitsi Meet</a></del>
