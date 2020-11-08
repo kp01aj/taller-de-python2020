@@ -5,5 +5,8 @@ Temario del Curso.
   - Instalar Git
   - Configurar Visual Studio con Github.
 2. Mi primer Programa en Python.
-3. Sincronizar Repositorios de trabajo.
+3. Uso basico de Visual Studio.
+  - Repositorios.
+  - Terminal.
+  - Debug.
 4. 
